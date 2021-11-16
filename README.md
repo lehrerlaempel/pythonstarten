@@ -1,5 +1,5 @@
 # Tutorial: Wie man Python-Skripte starten kann (Eine Anleitung)
-v 0.9 | Stand: September 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+v 1.0 | Stand: November 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 Weitere Anleitungen von uns findet man [hier](https://lehrerlaempel.github.io/anleitungen/)!
 
@@ -46,10 +46,18 @@ In vielen Linux-Distributionen müssen Sie übrigens nicht den ganzen Pfad einge
 
 
 # Beispiele
-Sollten Sie auf der Suche nach PythonSkripten sein, um diese Anleitung zu testen, finden Sie hier Links zu freier Software, die als Python-Skript veröffentlicht wird:
+Sollten Sie auf der Suche nach PythonSkripten sein, um diese Anleitung zu testen, hier ein Beispiel, das als Python-Skript veröffentlicht wird:
 
-(Beispiel folgt zeitnah)
+[OTPtextCRYPT - Simple vertrauenswürdige Textverschlüsselung](https://lehrerlaempel.github.io/OTPtextCRYPT/)
 
+# Fehlerteufel
+Diese Anleitung wurde von [lehrerlaempel](https://github.com/lehrerlaempel) nach bestem Wissen und Gewissen erstellt. Wir haben die feste Absicht, diese im Laufe der Zeit an Änderungen der erwähnten Software anzupassen und um weitere Aspekte zu ergänzen. Den Stand der Ihnen vorliegenden Version finden Sie ganz am Anfang der Seite.
+
+Ihnen sind Fehler aufgefallen? Sie haben Verbesserungs- oder Änderungswünsche? Dann nehmen Sie gerne [Kontakt](https://lehrerlaempel.github.io/anleitungen/) mit uns auf. Wir sind tatsächlich sehr an Ihrer Rückmeldung interessiert!
+
+Im Rahmen unserer Möglichkeiten haben wir auch versucht sicherzustellen, dass sowohl diese Seite selbst, als auch die von uns verlinkten Seiten sowohl legaler als auch legitimer Natur sind. Sollten uns Fehler unterlaufen sein oder wir änderungen verlinkter Seiten verpasst haben, geben Sie und gerne ein Zeichen, damit wir das zeitnah beheben können.
+
+Wir übernehmen explizit keinerlei Haftung für die hier getroffenen Aussagen oder möglicherweise daraus entstandene Datenverluste oder sonstigen Schäden. Wir haben diese Texte nach bestem Wissen und Gewissen verfasst, sind aber wie alle Menschen fehlbar. Verstehen Sie diese Anleitungen also bitte als aufrichtig wohlmeindende Ratschläge auf Augenhöhe, jedoch ohne jede Gewähr.
 
 # Lizenz
 Dieser Text steht unter einer CC-Lizenz, ist also quasi schöpferisches Gemeingut.
